@@ -1,0 +1,1 @@
+.drag{margin:10px}.dragParent{display:-webkit-box;display:-ms-flexbox;display:flex;width:400px}.dragChild{-webkit-box-flex:1;-ms-flex:1;flex:1;width:200px;height:300px;margin:0 10px;border:1px solid #000}.child{cursor:pointer;height:20px;margin:5px;padding:0 5px;border:1px solid grey;border-radius:2px}

@@ -1,0 +1,1 @@
+.action{position:relative;width:200px;height:25px;overflow:hidden}.action .iconOne{position:absolute;width:20px;height:20px;background:#fff;z-index:10}.action .iconThree{position:absolute;width:60px;left:-60px;-webkit-transition:all 1s;transition:all 1s;z-index:1}.action .iconAnimate{left:20px}.action:hover{background:#ebf7ff}
